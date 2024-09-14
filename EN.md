@@ -4,7 +4,7 @@ Open the client and select CPU or GPU.
 
 If GPU is selected, the number of graphics cards needs to be entered.
 
-Finally, enter the wallet address without entering "0x".
+Finally, enter the private key without entering "0x".
 
 ![image](https://github.com/user-attachments/assets/370e8bf8-961d-4c2c-a81f-32d7285cb112)
 
