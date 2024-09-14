@@ -4,7 +4,7 @@
 
 2.如果选择GPU，需要输入显卡数量	
 
-3.最后输入钱包地址,无需输入0x
+3.最后输入私钥,无需输入0x
 
 ![image](https://github.com/user-attachments/assets/a7b388cf-ed59-42fa-a220-4678818ab85c)
 
